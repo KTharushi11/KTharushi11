@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tharushi Nimsara</h1>
 <h3 align="center">🎓 Software Engineering Undergraduate | 💻 Flutter Developer | ☕ Java Developer | 🌐 Web Developer 🚀 Passionate about building real-world applications and improving daily</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ktharushi11&label=Profile%20views&color=0e75b6&style=flat" alt="ktharushi11" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ktharushi11&label=Profile%20views&color=0e75b6&style=flat" alt="ktharushi11" /> </p>
 
 - 🌱 I’m currently learning **Flutter & React Developer | Learning Front-End Development (HTML, CSS, JavaScript) and Modern UI/UX Design**
 
