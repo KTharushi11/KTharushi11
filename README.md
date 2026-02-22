@@ -89,7 +89,7 @@
 </a>
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KTharushi11&theme=tokyonight&hide_border=false&border_radius=10&border=FFFFFF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KTharushi11&theme=tokyonight&hide_border=false&border_radius=5&border=FFFFFF" />
 </p>
 
 ---
