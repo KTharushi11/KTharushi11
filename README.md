@@ -81,8 +81,15 @@
 ---
 
 ## 📊 My GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KTharushi11&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/KTharushi11">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KTharushi11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KTharushi11&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KTharushi11&theme=tokyonight&hide_border=false&border_radius=10&border=FFFFFF" />
 </p>
 
 ---
