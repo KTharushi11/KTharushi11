@@ -88,9 +88,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KTharushi11&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KTharushi11&theme=tokyonight&hide_border=false&border_radius=5&border=FFFFFF" />
-</p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ktharushi11&theme=dark" alt="ktharushi11" /></p>
 
 ---
 
