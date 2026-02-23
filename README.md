@@ -42,8 +42,7 @@
 
 ## 📫 Contact Me
 - 📧 Email: tharushinimsara702@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/tharushi-nimsara-18b772312  
-- 💻 GitHub: https://github.com/KTharushi11  
+- 💼 LinkedIn: https://linkedin.com/in/tharushi-nimsara-18b772312
 
 ---
 
