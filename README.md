@@ -55,8 +55,23 @@ Designing user-centered experiences and building clean, responsive interfaces
 
 ## 📫 Contact Me
 
-- 📧 Email: tharushinimsara702@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/tharushi-nimsara-18b772312  
+<p align="center">
+  <a href="mailto:tharushinimsara702@gmail.com" title="Email">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/tharushi-nimsara-18b772312" title="LinkedIn">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://facebook.com/tharushi.nimsara.7927" title="Facebook">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/tharuu_911" title="Instagram">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" width="40"/>
+  </a>
+</p> 
 
 ---
 
@@ -100,6 +115,8 @@ Designing user-centered experiences and building clean, responsive interfaces
 ---
 
 ## 📊 GitHub Stats
+
+
 
 ---
 
