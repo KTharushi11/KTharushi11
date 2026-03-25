@@ -101,8 +101,6 @@ Designing user-centered experiences and building clean, responsive interfaces
 
 ## 📊 GitHub Stats
 
-
-
 ---
 
 <h3 align="center">
