@@ -56,12 +56,12 @@ Designing user-centered experiences and building clean, responsive interfaces
 ## 📫 Contact Me
 
 <p>
-  <a href="mailto:tharushinimsara702@gmail.com" title="Email">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
-  </a>
-  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/tharushi-nimsara-18b772312" title="LinkedIn">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:tharushinimsara702@gmail.com" title="Email">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://facebook.com/tharushi.nimsara.7927" title="Facebook">
