@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Tharushi+Nimsara;UX/UI+Designer+%7C+Frontend+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Tharushi+Nimsara;Software+Engineering+Undergraduate" />
 </p>
 
 <h3 align="center">
-🧠 UX/UI Designer | 💻 Frontend Developer
+🧠 UX/UI Enthusiast | 💻 Frontend Developer | 🎓 SE Undergraduate
 </h3>
 
 <p align="center">
@@ -19,8 +19,9 @@ Designing user-centered experiences and building clean, responsive interfaces
 ## 🎯 About Me
 
 - 🎓 Software Engineering Undergraduate  
-- 🧠 Focused on **UX Design & user-centered thinking**  
-- 🎨 Designing clean, modern, and usable interfaces  
+- 🎯 Specializing in **UX/UI Design & Frontend Development**  
+- 🧠 Passionate about **user-centered design and usability**  
+- 🎨 Designing clean, modern, and intuitive interfaces  
 - 💻 Building responsive applications using frontend technologies  
 
 ---
@@ -100,14 +101,7 @@ Designing user-centered experiences and building clean, responsive interfaces
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KTharushi11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KTharushi11&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KTharushi11&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
