@@ -55,7 +55,7 @@ Designing user-centered experiences and building clean, responsive interfaces
 
 ## 📫 Contact Me
 
-<p align="center">
+<p>
   <a href="mailto:tharushinimsara702@gmail.com" title="Email">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
   </a>
