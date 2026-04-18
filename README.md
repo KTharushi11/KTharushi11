@@ -29,7 +29,7 @@
 
 ---
 
-### 🚀 What I’m Currently Working On  
+### 🚀 I’m Currently Working On  
 
 <ul>
   <li> Practicing <b>Manual Testing</b> (Test Cases, Test Scenarios)</li>
