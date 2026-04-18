@@ -110,7 +110,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=KTharushi11&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KTharushi11&theme=tokyonight&hide_border=true" />
 </p>
